@@ -265,7 +265,7 @@ const BlogPage = () => {
 
 
     // Replace 'example.com' with your actual domain
-    const blogUrl = `https://localhost:3000/blogs/${slug}`;
+    const blogUrl = `https://code1618-j5na.vercel.app/blogs/${slug}`;
 
 
     const handleCopyUrl = (url) => {
