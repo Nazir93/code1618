@@ -11,7 +11,7 @@ export default function Footer() {
                 </div>
                 <ul className="flex gap-2">
                     <li><Link href='/services'>СЕРВИС</Link></li>
-                    <li><Link href='/projects'>ПОРФОЛИО</Link></li>
+                    <li><Link href='/projects'>ПОРТФОЛИО</Link></li>
                     <li><Link href='/blogs'>НОВОСТИ</Link></li>
                     <li><Link href='/gallery'>КОМАНДА</Link></li>
                     <li><Link href='/shop'>ШАБЛОНЫ</Link></li>
